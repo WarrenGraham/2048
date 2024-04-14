@@ -6,3 +6,4 @@ To play on your own machine:
 1) Install Python [link](https://www.python.org/downloads/)
 2) Install dependencies - execute ```pip install pygame``` in your cmd.
 
+![2048 game](https://github.com/WarrenGraham/2048/blob/master/game_ss.png)
